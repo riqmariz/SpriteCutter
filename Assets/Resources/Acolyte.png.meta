@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 6db8ba2d20edeb049952607912156c9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2388416421774884644
+    second: Acolyte_0
+  - first:
+      213: -1255026029464306247
+    second: Acolyte_1
+  - first:
+      213: -8949292278794041739
+    second: Acolyte_2
+  - first:
+      213: -7519493628135685846
+    second: Acolyte_3
+  - first:
+      213: 6858237606348119420
+    second: Acolyte_4
+  - first:
+      213: -2108664618478249289
+    second: Acolyte_5
+  - first:
+      213: -6034830974357669863
+    second: Acolyte_6
+  - first:
+      213: 4922534724261974066
+    second: Acolyte_7
+  - first:
+      213: 6530671442940704100
+    second: Acolyte_8
+  - first:
+      213: 4214418497393234195
+    second: Acolyte_9
+  - first:
+      213: 7403530282892335788
+    second: Acolyte_10
+  - first:
+      213: -1070957349842887753
+    second: Acolyte_11
+  - first:
+      213: -732939861060217819
+    second: Acolyte_12
+  - first:
+      213: -7077724950241912029
+    second: Acolyte_13
+  - first:
+      213: -7372125942554678316
+    second: Acolyte_14
+  - first:
+      213: 1864256070939474847
+    second: Acolyte_15
+  - first:
+      213: -6166047038809132345
+    second: Acolyte_16
+  - first:
+      213: 5587681484954703128
+    second: Acolyte_17
+  - first:
+      213: -5295894295070593077
+    second: Acolyte_18
+  - first:
+      213: 2457016177502447385
+    second: Acolyte_19
+  - first:
+      213: -1659165451331645004
+    second: Acolyte_20
+  - first:
+      213: -1111864927658398147
+    second: Acolyte_21
+  - first:
+      213: 6304502029954407184
+    second: Acolyte_22
+  - first:
+      213: 8539275326725001629
+    second: Acolyte_23
+  - first:
+      213: 1114913001940547521
+    second: Acolyte_24
+  - first:
+      213: -8174192427284854859
+    second: Acolyte_25
+  - first:
+      213: 7485635434532793018
+    second: Acolyte_26
+  - first:
+      213: 8072931056931056880
+    second: Acolyte_27
+  - first:
+      213: 7648272666567860056
+    second: Acolyte_28
+  - first:
+      213: 4185891409793765029
+    second: Acolyte_29
+  - first:
+      213: -5385923852256729689
+    second: Acolyte_30
+  - first:
+      213: -4130896268679324667
+    second: Acolyte_31
+  - first:
+      213: -7055494530760141023
+    second: Acolyte_32
+  - first:
+      213: -4373001828488113956
+    second: Acolyte_33
+  - first:
+      213: 5663770261702077573
+    second: Acolyte_34
+  - first:
+      213: 3841259000894530756
+    second: Acolyte_35
+  - first:
+      213: 30712855693433259
+    second: Acolyte_36
+  - first:
+      213: -1553063884465536710
+    second: Acolyte_37
+  - first:
+      213: -7405430550092282385
+    second: Acolyte_38
+  - first:
+      213: -347752396367055646
+    second: Acolyte_39
+  - first:
+      213: 2520599075055390050
+    second: Acolyte_40
+  - first:
+      213: 8532575953611173603
+    second: Acolyte_41
+  - first:
+      213: 2044398055632829103
+    second: Acolyte_42
+  - first:
+      213: -6014907028412136994
+    second: Acolyte_43
+  - first:
+      213: -5912984262292582102
+    second: Acolyte_44
+  - first:
+      213: 5818789001378512208
+    second: Acolyte_45
+  - first:
+      213: -3426330659926285486
+    second: Acolyte_46
+  - first:
+      213: 7361006308411853627
+    second: Acolyte_47
+  - first:
+      213: 8535953586160776726
+    second: Acolyte_48
+  - first:
+      213: 1508422118215433743
+    second: Acolyte_49
+  - first:
+      213: 3348287951690646347
+    second: Acolyte_50
+  - first:
+      213: 5305019626945208153
+    second: Acolyte_51
+  - first:
+      213: -3229744428584134847
+    second: Acolyte_52
+  - first:
+      213: -6418373234810338231
+    second: Acolyte_53
+  - first:
+      213: 2285015063957588167
+    second: Acolyte_54
+  - first:
+      213: -7558292064541329654
+    second: Acolyte_55
+  - first:
+      213: -9038801523313633454
+    second: Acolyte_56
+  - first:
+      213: 4606919529094307093
+    second: Acolyte_57
+  - first:
+      213: 5105105658974556711
+    second: Acolyte_58
+  - first:
+      213: -1360824382656889570
+    second: Acolyte_59
+  - first:
+      213: 3466226534813270134
+    second: Acolyte_60
+  - first:
+      213: 1308661434932267548
+    second: Acolyte_61
+  - first:
+      213: 4653150548414750527
+    second: Acolyte_62
+  - first:
+      213: 1367382309623359626
+    second: Acolyte_63
+  - first:
+      213: 6772739055988766885
+    second: Acolyte_64
+  - first:
+      213: 7970484871157927460
+    second: Acolyte_65
+  - first:
+      213: -7517865219251353309
+    second: Acolyte_66
+  - first:
+      213: 7482363717660915231
+    second: Acolyte_67
+  - first:
+      213: -6925796833841298786
+    second: Acolyte_68
+  - first:
+      213: -7036922772128920109
+    second: Acolyte_69
+  - first:
+      213: 3381801591459511838
+    second: Acolyte_70
+  - first:
+      213: -220972743613635735
+    second: Acolyte_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Acolyte_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 295
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff99bc41c552120800000000000000
+      internalID: 2388416421774884644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 295
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd39e1c970459ee0800000000000000
+      internalID: -1255026029464306247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 295
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c55b761abdc380800000000000000
+      internalID: -8949292278794041739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 295
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c82c926465a790800000000000000
+      internalID: -7519493628135685846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 295
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dda9734ca5d2f50800000000000000
+      internalID: 6858237606348119420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 295
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5b21a3b48cb2e0800000000000000
+      internalID: -2108664618478249289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 295
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f2e5e339ff3ca0800000000000000
+      internalID: -6034830974357669863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 295
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2301922404b505440800000000000000
+      internalID: 4922534724261974066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 316
+        width: 162
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b44d831b91aa50800000000000000
+      internalID: 6530671442940704100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 308
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31195ff5b4f9c7a30800000000000000
+      internalID: 4214418497393234195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa15a3119f9eb660800000000000000
+      internalID: 7403530282892335788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb5509e6f13321f0800000000000000
+      internalID: -1070957349842887753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 228
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52418c3641314d5f0800000000000000
+      internalID: -732939861060217819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 223
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b59ea38aed6cd90800000000000000
+      internalID: -7077724950241912029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 223
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2692b382f0b990800000000000000
+      internalID: -7372125942554678316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 224
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b76bee40b2fd910800000000000000
+      internalID: 1864256070939474847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 227
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2be6723eccd6aa0800000000000000
+      internalID: -6166047038809132345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 227
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81590cca4be6b8d40800000000000000
+      internalID: 5587681484954703128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 225
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfac4e82343186b0800000000000000
+      internalID: -5295894295070593077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 224
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917eb631233191220800000000000000
+      internalID: 2457016177502447385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 242
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d6c900d579f8e0800000000000000
+      internalID: -1659165451331645004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 232
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ea4bc3dbcd190f0800000000000000
+      internalID: -1111864927658398147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 229
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b592d81371e7750800000000000000
+      internalID: 6304502029954407184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_23
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 256
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9193b8aaa9918670800000000000000
+      internalID: 8539275326725001629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_24
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 251
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7712cd777f87f00800000000000000
+      internalID: 1114913001940547521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 261
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b78ffdcb4f6f8e80800000000000000
+      internalID: -8174192427284854859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 251
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba676164c152e760800000000000000
+      internalID: 7485635434532793018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 231
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc28982600d80070800000000000000
+      internalID: 8072931056931056880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_28
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 229
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5b1cc77f142a60800000000000000
+      internalID: 7648272666567860056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 235
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aecd153f06471a30800000000000000
+      internalID: 4185891409793765029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 151
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52feecaca5145b0800000000000000
+      internalID: -5385923852256729689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 151
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd165eabb1ca6c0800000000000000
+      internalID: -4130896268679324667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 151
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127945b1b19d51e90800000000000000
+      internalID: -7055494530760141023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 151
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd015d2910aff43c0800000000000000
+      internalID: -4373001828488113956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c6c2a8b01c99e40800000000000000
+      internalID: 5663770261702077573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 151
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4279e95b4ee4530800000000000000
+      internalID: 3841259000894530756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 152
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba915a5fd2d1d6000800000000000000
+      internalID: 30712855693433259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_37
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 152
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3181f420a8627ae0800000000000000
+      internalID: -1553063884465536710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 152
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe58cec7620aa3990800000000000000
+      internalID: -7405430550092282385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 152
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e430c8b9098c2bf0800000000000000
+      internalID: -347752396367055646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 152
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dcad90187faf220800000000000000
+      internalID: 2520599075055390050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_41
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 152
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea80e4f9cc96670800000000000000
+      internalID: 8532575953611173603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_42
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 160
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7e7d23392f5c10800000000000000
+      internalID: 2044398055632829103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 160
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18e7e0de1c68ca0800000000000000
+      internalID: -6014907028412136994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_44
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 147
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21539b442cd0fda0800000000000000
+      internalID: -5912984262292582102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_45
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 151
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbd1a74cd70c050800000000000000
+      internalID: 5818789001378512208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_46
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 146
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25360141b6a3370d0800000000000000
+      internalID: -3426330659926285486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4c4abc3c872660800000000000000
+      internalID: 7361006308411853627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b55aaf8cc57670800000000000000
+      internalID: 8535953586160776726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb29facedfee410800000000000000
+      internalID: 1508422118215433743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 81
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43cd3ee622877e20800000000000000
+      internalID: 3348287951690646347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 82
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5b865e373f9940800000000000000
+      internalID: 5305019626945208153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14712fadd84ad23d0800000000000000
+      internalID: -3229744428584134847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 82
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94441478c8b5de6a0800000000000000
+      internalID: -6418373234810338231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 81
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8cb99181106bf10800000000000000
+      internalID: 2285015063957588167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 81
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073c50b96d8b1790800000000000000
+      internalID: -7558292064541329654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 80
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25791a777e9bf8280800000000000000
+      internalID: -9038801523313633454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 81
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd97837e01fef30800000000000000
+      internalID: 4606919529094307093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 81
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d3008c8af8d640800000000000000
+      internalID: 5105105658974556711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_59
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 87
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dbb061f616d1de0800000000000000
+      internalID: -1360824382656889570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 88
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67004962ba28a1030800000000000000
+      internalID: 3466226534813270134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a046834ac492210800000000000000
+      internalID: 1308661434932267548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fdca435cf439040800000000000000
+      internalID: 4653150548414750527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e04547fae9f210800000000000000
+      internalID: 1367382309623359626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8ff94b94a9dfd50800000000000000
+      internalID: 6772739055988766885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_65
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 9
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4ef8c2c9dc9e60800000000000000
+      internalID: 7970484871157927460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 9
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32942491a6d2ba790800000000000000
+      internalID: -7517865219251353309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_67
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16337f6822b6d760800000000000000
+      internalID: 7482363717660915231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924d5c5970a2ef90800000000000000
+      internalID: -6925796833841298786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_69
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 7
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd066f9504d75e90800000000000000
+      internalID: -7036922772128920109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 6
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e7bcf31a29eee20800000000000000
+      internalID: 3381801591459511838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acolyte_71
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 6
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963addfd572feecf0800000000000000
+      internalID: -220972743613635735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

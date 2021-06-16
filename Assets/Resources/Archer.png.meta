@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: bec59636b37024f4d909546a3eb26f71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4240883157859403447
+    second: JouFNs8_0
+  - first:
+      213: -5433321017430757593
+    second: JouFNs8_1
+  - first:
+      213: -4711369886910646405
+    second: JouFNs8_2
+  - first:
+      213: 7089644004411444763
+    second: JouFNs8_3
+  - first:
+      213: 1432620261434289588
+    second: JouFNs8_4
+  - first:
+      213: 5407384506257534171
+    second: JouFNs8_5
+  - first:
+      213: 7503999725936611742
+    second: JouFNs8_6
+  - first:
+      213: 1566953722122285054
+    second: JouFNs8_7
+  - first:
+      213: 5656716513514424733
+    second: JouFNs8_8
+  - first:
+      213: -2013167338210642135
+    second: JouFNs8_9
+  - first:
+      213: -6736604794680711916
+    second: JouFNs8_10
+  - first:
+      213: -8446764847175300969
+    second: JouFNs8_11
+  - first:
+      213: -1998630083380138501
+    second: JouFNs8_12
+  - first:
+      213: -7113195171142514102
+    second: JouFNs8_13
+  - first:
+      213: 7531272164076512286
+    second: JouFNs8_14
+  - first:
+      213: -5922339631189603579
+    second: JouFNs8_15
+  - first:
+      213: -6076405945396473011
+    second: JouFNs8_16
+  - first:
+      213: 3743489894670979259
+    second: JouFNs8_17
+  - first:
+      213: -2451545099341748788
+    second: JouFNs8_18
+  - first:
+      213: 5319535652597826146
+    second: JouFNs8_19
+  - first:
+      213: -503060642460318354
+    second: JouFNs8_20
+  - first:
+      213: 5000465132472193736
+    second: JouFNs8_21
+  - first:
+      213: 1503082246747162756
+    second: JouFNs8_22
+  - first:
+      213: -8939178693899548427
+    second: JouFNs8_23
+  - first:
+      213: -6938331918370795584
+    second: JouFNs8_24
+  - first:
+      213: -662496938100443318
+    second: JouFNs8_25
+  - first:
+      213: -930371434316105590
+    second: JouFNs8_26
+  - first:
+      213: -7263712746608723635
+    second: JouFNs8_27
+  - first:
+      213: -8303264455267248191
+    second: JouFNs8_28
+  - first:
+      213: 6674590747503954885
+    second: JouFNs8_29
+  - first:
+      213: 1537327512532096866
+    second: JouFNs8_30
+  - first:
+      213: -4882692183166493283
+    second: JouFNs8_31
+  - first:
+      213: 2281539605796250165
+    second: JouFNs8_32
+  - first:
+      213: 8764645494646087355
+    second: JouFNs8_33
+  - first:
+      213: -556411608217896149
+    second: JouFNs8_34
+  - first:
+      213: 5173405836027191449
+    second: JouFNs8_35
+  - first:
+      213: 2156746808649557047
+    second: JouFNs8_36
+  - first:
+      213: 126632817046403757
+    second: JouFNs8_37
+  - first:
+      213: 6979266204411240323
+    second: JouFNs8_38
+  - first:
+      213: -3266839243307589661
+    second: JouFNs8_39
+  - first:
+      213: -4298411573331506968
+    second: JouFNs8_40
+  - first:
+      213: -5873626981405543312
+    second: JouFNs8_41
+  - first:
+      213: 3126063213098930308
+    second: JouFNs8_42
+  - first:
+      213: -8400136586354341342
+    second: JouFNs8_43
+  - first:
+      213: -3632146306983953242
+    second: JouFNs8_44
+  - first:
+      213: 7078645165494179233
+    second: JouFNs8_45
+  - first:
+      213: 1319002949939278720
+    second: JouFNs8_46
+  - first:
+      213: 7696891683569473484
+    second: JouFNs8_47
+  - first:
+      213: -4300930498223308718
+    second: JouFNs8_48
+  - first:
+      213: 1891134778317967063
+    second: JouFNs8_49
+  - first:
+      213: 2392391391251707717
+    second: JouFNs8_50
+  - first:
+      213: -490326260746004640
+    second: JouFNs8_51
+  - first:
+      213: 1755215074027711749
+    second: JouFNs8_52
+  - first:
+      213: -1077606587349763558
+    second: JouFNs8_53
+  - first:
+      213: -1862752945346406519
+    second: JouFNs8_54
+  - first:
+      213: 140891965168318697
+    second: JouFNs8_55
+  - first:
+      213: -5281740194522324557
+    second: JouFNs8_56
+  - first:
+      213: -6911459634717877244
+    second: JouFNs8_57
+  - first:
+      213: -9181521480875933023
+    second: JouFNs8_58
+  - first:
+      213: -4088075360636664191
+    second: JouFNs8_59
+  - first:
+      213: 3535248664762265384
+    second: JouFNs8_60
+  - first:
+      213: -8018996802930248231
+    second: JouFNs8_61
+  - first:
+      213: 5072383932287531585
+    second: JouFNs8_62
+  - first:
+      213: 1792251472181719547
+    second: JouFNs8_63
+  - first:
+      213: 622667764605693252
+    second: JouFNs8_64
+  - first:
+      213: 4918382217413985097
+    second: JouFNs8_65
+  - first:
+      213: 5449332737954360248
+    second: JouFNs8_66
+  - first:
+      213: 7807927063917624119
+    second: JouFNs8_67
+  - first:
+      213: -5995079377548594358
+    second: JouFNs8_68
+  - first:
+      213: 1879052453197243746
+    second: JouFNs8_69
+  - first:
+      213: -2809978319725312575
+    second: JouFNs8_70
+  - first:
+      213: 5004790851373532895
+    second: JouFNs8_71
+  - first:
+      213: 7236131215047465104
+    second: JouFNs8_72
+  - first:
+      213: -7390074551180799578
+    second: JouFNs8_73
+  - first:
+      213: 2047282407129305057
+    second: JouFNs8_74
+  - first:
+      213: -1959375374351819892
+    second: JouFNs8_75
+  - first:
+      213: 5806022928173497906
+    second: JouFNs8_76
+  - first:
+      213: -6403235466468973109
+    second: JouFNs8_77
+  - first:
+      213: -4570793761201383458
+    second: JouFNs8_78
+  - first:
+      213: 6984077587610391134
+    second: JouFNs8_79
+  - first:
+      213: 996992785678500985
+    second: JouFNs8_80
+  - first:
+      213: 5682956286807268455
+    second: JouFNs8_81
+  - first:
+      213: -485513406208545497
+    second: JouFNs8_82
+  - first:
+      213: 3339697438167779444
+    second: JouFNs8_83
+  - first:
+      213: -5705897616267602233
+    second: JouFNs8_84
+  - first:
+      213: -1420735086548774584
+    second: JouFNs8_85
+  - first:
+      213: 577279872377813888
+    second: JouFNs8_86
+  - first:
+      213: -8427380342584694060
+    second: JouFNs8_87
+  - first:
+      213: -5110157270433074882
+    second: JouFNs8_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JouFNs8_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 661
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6852e43c4aada30800000000000000
+      internalID: 4240883157859403447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 662
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f20655257f894b0800000000000000
+      internalID: -5433321017430757593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 721
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f73dbc0add9eb0800000000000000
+      internalID: -4711369886910646405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0ce2d8a9736260800000000000000
+      internalID: 7089644004411444763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd61d49980b1e310800000000000000
+      internalID: 1432620261434289588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 720
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc6e631f83ea0b40800000000000000
+      internalID: 5407384506257534171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 720
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91941b2eff832860800000000000000
+      internalID: 7503999725936611742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 720
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff2392bb10feb510800000000000000
+      internalID: 1566953722122285054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 720
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d990d1fc2b1b08e40800000000000000
+      internalID: 5656716513514424733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 720
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927398cd8facf04e0800000000000000
+      internalID: -2013167338210642135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 720
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415ecdc91a5c282a0800000000000000
+      internalID: -6736604794680711916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 661
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7980cd6df1017ca80800000000000000
+      internalID: -8446764847175300969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 661
+        width: 34
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda7b247807344e0800000000000000
+      internalID: -1998630083380138501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 661
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ac60eddaad84d90800000000000000
+      internalID: -7113195171142514102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_14
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 661
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14619e7124748860800000000000000
+      internalID: 7531272164076512286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 662
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bc9bbbb7f9fcda0800000000000000
+      internalID: -5922339631189603579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 662
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435291acf44caba0800000000000000
+      internalID: -6076405945396473011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 662
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d020b93c83f330800000000000000
+      internalID: 3743489894670979259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 688
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5a2e298bc5afdd0800000000000000
+      internalID: -2451545099341748788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 688
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628e1fed79c2d940800000000000000
+      internalID: 5319535652597826146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 688
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654ca1d205c409f0800000000000000
+      internalID: -503060642460318354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 688
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25bbc5b88356540800000000000000
+      internalID: 5000465132472193736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 688
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888f89f6550cd410800000000000000
+      internalID: 1503082246747162756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 689
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88066f658a1f380800000000000000
+      internalID: -8939178693899548427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 697
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf01cf81e716bf90800000000000000
+      internalID: -6938331918370795584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 538
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a473dbb7b865ec6f0800000000000000
+      internalID: -662496938100443318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 538
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88fa6c1c18a613f0800000000000000
+      internalID: -930371434316105590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 540
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f8e3edbb123b90800000000000000
+      internalID: -7263712746608723635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 548
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71ba378f0e4cc80800000000000000
+      internalID: -8303264455267248191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 544
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb051edbe8e0ac50800000000000000
+      internalID: 6674590747503954885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 33
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26719ef3a3fa55510800000000000000
+      internalID: 1537327512532096866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 547
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd8ca34513d3cb0800000000000000
+      internalID: -4882692183166493283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_32
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 547
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326870fe28a9af10800000000000000
+      internalID: 2281539605796250165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 547
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe9b9ae3a642a970800000000000000
+      internalID: 8764645494646087355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_34
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 547
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bb44f179a3748f0800000000000000
+      internalID: -556411608217896149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_35
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 547
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990655fa231abc740800000000000000
+      internalID: 5173405836027191449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 697
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a308abcd4eed10800000000000000
+      internalID: 2156746808649557047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 405
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa35fc40e3e1c100800000000000000
+      internalID: 126632817046403757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 465
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f12da92a55bd060800000000000000
+      internalID: 6979266204411240323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef5854440bd9a2d0800000000000000
+      internalID: -3266839243307589661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 464
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c521b279f854c0800000000000000
+      internalID: -4298411573331506968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 464
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743c26516fac7ea0800000000000000
+      internalID: -5873626981405543312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 464
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4809d220ee1026b20800000000000000
+      internalID: 3126063213098930308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4691d748bc6b80800000000000000
+      internalID: -8400136586354341342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 464
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac79ff7d26089dc0800000000000000
+      internalID: -3632146306983953242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5115416466c3260800000000000000
+      internalID: 7078645165494179233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b2d0d13a0e4210800000000000000
+      internalID: 1319002949939278720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 402
+        width: 40
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc711d1d43ad0da60800000000000000
+      internalID: 7696891683569473484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_48
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 402
+        width: 39
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25081c9cf760054c0800000000000000
+      internalID: -4300930498223308718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 402
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de870caf09ae3a10800000000000000
+      internalID: 1891134778317967063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_50
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 402
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547b24f7b4b733120800000000000000
+      internalID: 2392391391251707717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_51
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 402
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067503c1dd20239f0800000000000000
+      internalID: -490326260746004640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_52
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 402
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d25df6fc6cb5810800000000000000
+      internalID: 1755215074027711749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_53
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 402
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a7569a4829b01f0800000000000000
+      internalID: -1077606587349763558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_54
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 402
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9879054c01c2626e0800000000000000
+      internalID: -1862752945346406519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_55
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 402
+        width: 40
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8709fee7c84f100800000000000000
+      internalID: 140891965168318697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 432
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b12895e64d73b6b0800000000000000
+      internalID: -5281740194522324557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9039a4109510a0800000000000000
+      internalID: -6911459634717877244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_58
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 432
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a285c2ebdea49080800000000000000
+      internalID: -9181521480875933023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_59
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186893a7e1d3447c0800000000000000
+      internalID: -4088075360636664191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_60
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f24d71ee9bf0130800000000000000
+      internalID: 3535248664762265384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 433
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5795ae4ecc6b090800000000000000
+      internalID: -8018996802930248231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 410
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab560df4ab46640800000000000000
+      internalID: 5072383932287531585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 280
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ff8bd73b5fd810800000000000000
+      internalID: 1792251472181719547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_64
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 280
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da86a680924a800800000000000000
+      internalID: 622667764605693252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430f8a619a914440800000000000000
+      internalID: 4918382217413985097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_66
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 280
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb2dacd04bef9b40800000000000000
+      internalID: 5449332737954360248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 280
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf7f4eb445b5c60800000000000000
+      internalID: 7807927063917624119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 280
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4332f4c1133dcca0800000000000000
+      internalID: -5995079377548594358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 280
+        width: 35
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e523204cb31a10800000000000000
+      internalID: 1879052453197243746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_70
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 280
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5493a2b93f009d0800000000000000
+      internalID: -2809978319725312575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_71
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 280
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd68e3743c6947540800000000000000
+      internalID: 5004790851373532895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_72
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 285
+        width: 89
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098150d5007eb6460800000000000000
+      internalID: 7236131215047465104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_73
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 301
+        width: 160
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d639995e217990800000000000000
+      internalID: -7390074551180799578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef49d79088696c10800000000000000
+      internalID: 2047282407129305057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 155
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b9c1e6a76eec4e0800000000000000
+      internalID: -1959375374351819892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 151
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23efd8f6713239050800000000000000
+      internalID: 5806022928173497906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 151
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc52fefd4432327a0800000000000000
+      internalID: -6403235466468973109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_78
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 153
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed715029a474190c0800000000000000
+      internalID: -4570793761201383458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 154
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52d84d009d6ce060800000000000000
+      internalID: 6984077587610391134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_80
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 154
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9748ef108a706dd00800000000000000
+      internalID: 996992785678500985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_81
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 205
+        width: 149
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c583d12aaedde40800000000000000
+      internalID: 5682956286807268455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72def31212c1349f0800000000000000
+      internalID: -485513406208545497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 20
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c543202df85e20800000000000000
+      internalID: 3339697438167779444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 46
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61f91695490d0b0800000000000000
+      internalID: -5705897616267602233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_85
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 13
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841935657f8884ce0800000000000000
+      internalID: -1420735086548774584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 12
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bff014cf8e20800800000000000000
+      internalID: 577279872377813888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_87
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 15
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da21258a3eeb0b80800000000000000
+      internalID: -8427380342584694060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JouFNs8_88
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 18
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f47d89031519b0800000000000000
+      internalID: -5110157270433074882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

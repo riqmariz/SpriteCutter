@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 5b225f7f89e58744dad6f1728d6dbcaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2787749683523547314
+    second: 6t1KimK_0
+  - first:
+      213: 7918784083412757438
+    second: 6t1KimK_1
+  - first:
+      213: 434927954022029837
+    second: 6t1KimK_2
+  - first:
+      213: 8450511220896072882
+    second: 6t1KimK_3
+  - first:
+      213: 1609489442421294145
+    second: 6t1KimK_4
+  - first:
+      213: -397864489176513839
+    second: 6t1KimK_5
+  - first:
+      213: 1708206150273895624
+    second: 6t1KimK_6
+  - first:
+      213: -1766245533424899895
+    second: 6t1KimK_7
+  - first:
+      213: -6558451845177450598
+    second: 6t1KimK_8
+  - first:
+      213: 3062517828817217066
+    second: 6t1KimK_9
+  - first:
+      213: -6948488953809039501
+    second: 6t1KimK_10
+  - first:
+      213: 5200522289452332680
+    second: 6t1KimK_11
+  - first:
+      213: -1319331737987309643
+    second: 6t1KimK_12
+  - first:
+      213: -6168098799808823428
+    second: 6t1KimK_13
+  - first:
+      213: -36397686001750363
+    second: 6t1KimK_14
+  - first:
+      213: -917192755590881124
+    second: 6t1KimK_15
+  - first:
+      213: -3711678004064143584
+    second: 6t1KimK_16
+  - first:
+      213: -7366779201884062014
+    second: 6t1KimK_17
+  - first:
+      213: 2284157108602096793
+    second: 6t1KimK_18
+  - first:
+      213: -5707557695603360158
+    second: 6t1KimK_19
+  - first:
+      213: 9041720323512306843
+    second: 6t1KimK_20
+  - first:
+      213: -2773325813454024061
+    second: 6t1KimK_21
+  - first:
+      213: -617841103866275592
+    second: 6t1KimK_22
+  - first:
+      213: 8607858750501569434
+    second: 6t1KimK_23
+  - first:
+      213: -3669399258950554430
+    second: 6t1KimK_24
+  - first:
+      213: -3792456068801365194
+    second: 6t1KimK_25
+  - first:
+      213: -3286888332130677386
+    second: 6t1KimK_26
+  - first:
+      213: 5453924773076122852
+    second: 6t1KimK_27
+  - first:
+      213: -2147771815740233620
+    second: 6t1KimK_28
+  - first:
+      213: 227595531546727299
+    second: 6t1KimK_29
+  - first:
+      213: -2735456859604594958
+    second: 6t1KimK_30
+  - first:
+      213: 1019595767660547891
+    second: 6t1KimK_31
+  - first:
+      213: -7847533094299864019
+    second: 6t1KimK_32
+  - first:
+      213: -4112610679208446552
+    second: 6t1KimK_33
+  - first:
+      213: 8916314866634874171
+    second: 6t1KimK_34
+  - first:
+      213: 2389351806855467713
+    second: 6t1KimK_35
+  - first:
+      213: -7731861437751823340
+    second: 6t1KimK_36
+  - first:
+      213: 7616366963907868705
+    second: 6t1KimK_37
+  - first:
+      213: 3832239043322091490
+    second: 6t1KimK_38
+  - first:
+      213: -230072793599608457
+    second: 6t1KimK_39
+  - first:
+      213: -1687623148439321233
+    second: 6t1KimK_40
+  - first:
+      213: -1829749949380853981
+    second: 6t1KimK_41
+  - first:
+      213: -6367780605156322199
+    second: 6t1KimK_42
+  - first:
+      213: 518321615263445980
+    second: 6t1KimK_43
+  - first:
+      213: -8024353245574604501
+    second: 6t1KimK_44
+  - first:
+      213: 9215174653992474608
+    second: 6t1KimK_45
+  - first:
+      213: 3763896451861785309
+    second: 6t1KimK_46
+  - first:
+      213: 8005941591052036893
+    second: 6t1KimK_47
+  - first:
+      213: -3722747038486782162
+    second: 6t1KimK_48
+  - first:
+      213: 4403181331019748423
+    second: 6t1KimK_49
+  - first:
+      213: 398049458786064495
+    second: 6t1KimK_50
+  - first:
+      213: -8837669387821696064
+    second: 6t1KimK_51
+  - first:
+      213: -7714662169935381198
+    second: 6t1KimK_52
+  - first:
+      213: -3276545292109249257
+    second: 6t1KimK_53
+  - first:
+      213: -3404749746502821041
+    second: 6t1KimK_54
+  - first:
+      213: 2916600548711980031
+    second: 6t1KimK_55
+  - first:
+      213: 3524989526680532578
+    second: 6t1KimK_56
+  - first:
+      213: -1621680342067164885
+    second: 6t1KimK_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6t1KimK_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 522
+        width: 37
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0f029219310b620800000000000000
+      internalID: 2787749683523547314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 520
+        width: 34
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba5d81b2c25ed60800000000000000
+      internalID: 7918784083412757438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 520
+        width: 33
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ade5a7bac290600800000000000000
+      internalID: 434927954022029837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 521
+        width: 28
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b486f3ce2f364570800000000000000
+      internalID: 8450511220896072882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 522
+        width: 32
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444345de1e065610800000000000000
+      internalID: 1609489442421294145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 516
+        width: 40
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d244e5ea508a7af0800000000000000
+      internalID: -397864489176513839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 515
+        width: 43
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc86367174c4b710800000000000000
+      internalID: 1708206150273895624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 519
+        width: 52
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a61a9b090d77e0800000000000000
+      internalID: -1766245533424899895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 522
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f51b38bc2bbf4a0800000000000000
+      internalID: -6558451845177450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 519
+        width: 40
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2663f84dbf308a20800000000000000
+      internalID: 3062517828817217066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 520
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f8c767c12029f90800000000000000
+      internalID: -6948488953809039501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 522
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886be4df777fb2840800000000000000
+      internalID: 5200522289452332680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 525
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1e5046cac0bde0800000000000000
+      internalID: -1319331737987309643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 528
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb1e152d2866aa0800000000000000
+      internalID: -6168098799808823428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_14
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 524
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae28375f70be7ff0800000000000000
+      internalID: -36397686001750363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 390
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a17c5c0a7543f0800000000000000
+      internalID: -917192755590881124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 390
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027302745887d7cc0800000000000000
+      internalID: -3711678004064143584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 386
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cef6f4c851f3c990800000000000000
+      internalID: -7366779201884062014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 388
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c496dc9c4f2bf10800000000000000
+      internalID: 2284157108602096793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 378
+        width: 55
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb38a048eaac0b0800000000000000
+      internalID: -5707557695603360158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 380
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8169aab4aa7d70800000000000000
+      internalID: 9041720323512306843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 385
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d6aacdda2389d0800000000000000
+      internalID: -2773325813454024061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 386
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f85a6c1accfc67f0800000000000000
+      internalID: -617841103866275592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 381
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93426c5de1457770800000000000000
+      internalID: 8607858750501569434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 381
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccab27b0dca31dc0800000000000000
+      internalID: -3669399258950554430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 385
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bf1d87c4d7e5bc0800000000000000
+      internalID: -3792456068801365194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 386
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d89f20a70a262d0800000000000000
+      internalID: -3286888332130677386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_27
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 388
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb7ea5fab30bb40800000000000000
+      internalID: 5453924773076122852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 389
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c682538b9e49132e0800000000000000
+      internalID: -2147771815740233620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 251
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831f4a1ee4982300800000000000000
+      internalID: 227595531546727299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 252
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feccd0ba74b90ad0800000000000000
+      internalID: -2735456859604594958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 249
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f06e9d2f4562e00800000000000000
+      internalID: 1019595767660547891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 253
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24722f8a36f71390800000000000000
+      internalID: -7847533094299864019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 253
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57d4670621de6c0800000000000000
+      internalID: -4112610679208446552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_34
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 253
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d5e4b612d1dbb70800000000000000
+      internalID: 8916314866634874171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_35
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 253
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2de0b1fcea82120800000000000000
+      internalID: 2389351806855467713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_36
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 253
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f24eccf8e2b490800000000000000
+      internalID: -7731861437751823340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_37
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 253
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bfb28665c2b960800000000000000
+      internalID: 7616366963907868705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_38
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 253
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e798971b19de2530800000000000000
+      internalID: 3832239043322091490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 125
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797301630e9eccf0800000000000000
+      internalID: -230072793599608457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654c8a10bb5498e0800000000000000
+      internalID: -1687623148439321233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7d5f8d1c6b96e0800000000000000
+      internalID: -1829749949380853981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964190e074911a7a0800000000000000
+      internalID: -6367780605156322199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 127
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd33f2d43c2713700800000000000000
+      internalID: 518321615263445980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 127
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d54dec35c3a090800000000000000
+      internalID: -8024353245574604501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_45
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 127
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f797621680e2ef70800000000000000
+      internalID: 9215174653992474608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 127
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda239881eb0c3430800000000000000
+      internalID: 3763896451861785309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_47
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 127
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bae23b571da1f60800000000000000
+      internalID: 8005941591052036893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_48
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 127
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f9b5eda45265cc0800000000000000
+      internalID: -3722747038486782162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744501d671e3b1d30800000000000000
+      internalID: 4403181331019748423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68daf1bfd7268500800000000000000
+      internalID: 398049458786064495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb3b88048a4a5580800000000000000
+      internalID: -8837669387821696064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d7bd661a300f490800000000000000
+      internalID: -7714662169935381198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 7
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715895daa6f5782d0800000000000000
+      internalID: -3276545292109249257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b199a0526efb0d0800000000000000
+      internalID: -3404749746502821041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_55
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 6
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdfa90fb8d97820800000000000000
+      internalID: 2916600548711980031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 6
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f3ce5c474be030800000000000000
+      internalID: 3524989526680532578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6t1KimK_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 19
+        width: 162
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294ad72252ae79e0800000000000000
+      internalID: -1621680342067164885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
